@@ -44,9 +44,10 @@ This project provided valuable insights into the performance of Hollywood movies
 4. Import the cleaned data into Power BI and open the provided Power BI file to explore the dashboard.
 
 ## 🤩Final Dashboard Visual
-![image](https://github.com/EvangelineMapstone/Analysis-of-Hollywood-Movies/assets/168833032/7d94b7d0-e65c-44e7-a04d-f25903ac3c63)
+![image](https://github.com/EvangelineMapstone/Analysis-of-Hollywood-Movies/assets/168833032/1d3fc9fd-feff-4e20-b3b5-398b96f23b9c)
+
 
 Link to my interactice PowerBI Dashboard: https://app.powerbi.com/groups/me/reports/5123719c-d18e-40e0-9176-d64d0778fe9e/ReportSection?experience=power-bi 
 
-Feel free to explore the scripts and dashboard to understand the analysis and insights gained from the Hollywood movies dataset!
+Full assignment uploaded to this repository, feel free to download to explore further. 😀
 
